@@ -1,2 +1,2 @@
-def introduction (Taylor)
+def introduction (name)
 end
